@@ -1,10 +1,10 @@
-CS671 - Introduction to Natural Language Processing Project
+# CS671 - Introduction to Natural Language Processing Project
 
-Team Members:
-Robin
-Praphul
-Asitava
-Harshit
-Tushar
-Ribhu
-Shashwat
+## Team Members:
+* Robin Singh Rana
+* Praphul Singh
+* Asitava Sarkar
+* Harshit Saini
+* Tushar Gupta
+* Ribhu Nirek
+* Shashwat Singh Jamwal
